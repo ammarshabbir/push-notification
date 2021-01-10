@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "615817766778",
+    "project_id": "notification-app-98794",
+    "storage_bucket": "notification-app-98794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615817766778:android:ed015c50f464183aa9d8c3",
+        "android_client_info": {
+          "package_name": "com.ammar.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615817766778-micn0fckdgeih0nkig7doooe5gr2e1ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ammar.push_notification",
+            "certificate_hash": "d8a635e2a66fec7fda287b067856754b4d05f0d3"
+          }
+        },
+        {
+          "client_id": "615817766778-sgu368rpe74ht6mg1ujnp56us1gcpck9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS4Khxz7aVddIs23ivM2xfrKrwpkYHMhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615817766778-sgu368rpe74ht6mg1ujnp56us1gcpck9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
